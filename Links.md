@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 14:24 IR
+- 📱 [OrganicMaps-26040708-web.apk](https://github.com/Kvawn/sandbox/raw/main/dl/OrganicMaps-26040708-web-release.apk) `68.2MB`
+
+---
+
+
 ### 📅 2026-04-29 11:29 IR
 - 📱 [SlipNet-v2.5.3-full-arm64-v8a.apk](https://github.com/Kvawn/sandbox/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk) `25.6MB`
 
